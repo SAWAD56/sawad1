@@ -7,7 +7,7 @@ from datetime import datetime
 import requests
 
 # ─── Configuration ───────────────────────────────────────────────
-API_KEY = "8799827850:AAF_6bEXiJn7CQnUjrRQk6hELHOLy6ym-Kw"
+API_KEY = "Tokn"
 BASE_URL = f"https://api.telegram.org/bot{API_KEY}"
 
 # Exchange rates (IQD)
